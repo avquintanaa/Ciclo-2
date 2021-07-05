@@ -5,7 +5,7 @@ public class Ejercicio1 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Ingresa tu nombre");
         String nombre = scanner.nextLine();
-        System.out.println("Hola " + nombre);
+        System.out.println("Holisss " + nombre);
     }
     
     //Crear funciones
